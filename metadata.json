@@ -1,0 +1,5 @@
+{
+  "name": "E-Voting OSIS",
+  "description": "Sistem pemilihan ketua OSIS berbasis web dengan penghitungan suara real-time.",
+  "requestFramePermissions": []
+}
